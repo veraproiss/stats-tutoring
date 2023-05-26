@@ -1,6 +1,6 @@
 # Statistics and Data Analysis
 
-## Tutorial ideas
+## Tutorial ideas 
 * `map` tutorial <https://github.com/cwickham/purrr-tutorial>
 * Datasets: <https://github.com/rfordatascience/tidytuesday>
 * Additional R reference <https://merely-useful.tech/novice-r/>
